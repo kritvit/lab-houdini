@@ -7,15 +7,11 @@ You’ll need the latest Chrome or Chrome Canary with Web Platform flag enabled.
 
 chrome://flags/#enable-experimental-web-platform-features
 
-## Install and start a local webserver
+https://kritvit.github.io/lab-houdini/
+
+## Install and start a webserver to run it locally
 ```
 $ npm install -g browser-sync
 
 $ browser-sync start --server
 ```
-
-## Lab Version 1 - registerProperty
-Random color on p elements using Properties & Values API
-
-## Lab Version 2 - registerLayout
-Custom Layout using Layout API
