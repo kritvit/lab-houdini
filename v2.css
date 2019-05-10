@@ -1,0 +1,14 @@
+
+body {
+	color: gold;
+	background-color: salmon;
+	font-family: Comic Sans MS;
+}
+
+.block {
+	--height: 80;
+	--padding: 10;
+
+	display: layout(bananas);
+	background-color: deepskyblue;
+}
